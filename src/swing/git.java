@@ -8,4 +8,7 @@ public class git {
     public void display() {
     	System.out.println("Hello World");
     }
+    public void displa() {
+    	System.out.println("Good bay");
+    }
 }
